@@ -1,0 +1,241 @@
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 479px) {
+  
+  /* CSS */
+  .logo{
+  text-align: center;
+ }
+ .blog-1{
+  margin-left: 83px
+ }
+ .picture-area {
+    width: 100%;
+    padding: 80px 0px;
+  }
+  .blog-2{
+    margin-left: 159px;
+   }
+  .picture-area2 {
+    width: 100%;
+    padding: 80px 0px;
+  }
+   .middle{
+    margin-left: 159px;
+   }
+   .newsletter{
+    padding: 80px 160px;
+    margin-top: 72px;
+
+   }
+   .last{
+    margin-left: 159px;
+   }
+   .btn button{
+    margin-left: 396px;
+    margin-top: 65px;
+   }
+   .footer{
+    width: 100%;
+    padding: 60px 160px;
+    height: 2vh;
+   }
+   .part-r h5{
+    margin-left: 300px;
+   }
+}
+  /* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .logo{
+  text-align: center;
+ }
+ .blog-1{
+  margin-left: 83px
+ }
+ .picture-area {
+    width: 100%;
+    padding: 80px 0px;
+  }
+  .blog-2{
+    margin-left: 159px;
+   }
+  .picture-area2 {
+    width: 100%;
+    padding: 80px 0px;
+  }
+   .middle{
+    margin-left: 159px;
+   }
+   .newsletter{
+    padding: 80px 160px;
+
+   }
+   .last{
+    margin-left: 159px;
+   }
+   .btn button{
+    margin-left: 396px;
+    margin-top: 65px;
+   }
+   .footer{
+    width: 100%;
+    padding: 60px 160px;
+   }
+   .part-r h5{
+    margin-left: 300px;
+   }
+}
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+ .logo{
+  text-align: center;
+ }
+ .blog-1{
+  margin-left: 83px
+ }
+ .picture-area {
+    width: 100%;
+    padding: 80px 0px;
+  }
+  .blog-2{
+    margin-left: 159px;
+   }
+  .picture-area2 {
+    width: 100%;
+    padding: 80px 0px;
+  }
+   .middle{
+    margin-left: 159px;
+   }
+   .newsletter{
+    padding: 80px 160px;
+
+   }
+   .last{
+    margin-left: 159px;
+   }
+   .btn button{
+    margin-left: 396px;
+    margin-top: 65px;
+   }
+   .footer{
+    width: 100%;
+    padding: 60px 160px;
+    height: 36vh;
+   }
+   .part-r h5{
+    margin-left: 300px;
+   }
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  .logo{
+  text-align: center;
+ }
+ .blog-1{
+  margin-left: 83px
+ }
+ .picture-area {
+    width: 100%;
+    padding: 80px 0px;
+  }
+  .blog-2{
+    margin-left: 159px;
+   }
+  .picture-area2 {
+    width: 100%;
+    padding: 80px 0px;
+  }
+   .middle{
+    margin-left: 159px;
+   }
+   .newsletter{
+    padding: 80px 160px;
+
+   }
+   .last{
+    margin-left: 159px;
+   }
+   .btn button{
+    margin-left: 396px;
+    margin-top: 65px;
+   }
+   .footer{
+    width: 100%;
+    padding: 60px 160px;
+    height: 4vh;
+   }
+   .part-r h5{
+    margin-left: 300px;
+   }
+}
+  
+
+/*for ipad pro pottrait*/
+@media (min-width: 1024px) and (max-width: 1030px) {
+ .logo{
+  text-align: center;
+ }
+ .blog-1{
+  margin-left: 83px
+ }
+ .picture-area {
+    width: 100%;
+    padding: 80px 0px;
+  }
+  .blog-2{
+    margin-left: 159px;
+   }
+  .picture-area2 {
+    width: 100%;
+    padding: 80px 0px;
+  }
+   .middle{
+    margin-left: 159px;
+   }
+   .newsletter{
+    padding: 80px 160px;
+
+   }
+   .last{
+    margin-left: 159px;
+   }
+   .btn button{
+    margin-left: 396px;
+    margin-top: 65px;
+   }
+   .footer{
+    width: 100%;
+    padding: 60px 160px;
+    height: 59vh;
+   }
+   .part-r h5{
+    margin-left: 300px;
+   }
+}
